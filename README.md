@@ -1,3 +1,4 @@
+	Property-Hub
 Developed using Laravel Framework, MYSQL database, bootstrap and using Google Maps API including geocoding function. This system mainly purposes as a platform for property owner to advertise their property to the seeker for selling/renting purpose. There are 3 users for the system, Admin (the one that maintaining the web system and approving the advertise property to be shown to the property seeker/public) and Property owner (the one that advertise their property). This is a group project of 4 members and my part is on integrating the system with bootstrap, applying google maps API, Add Admin function and Property Owner dashboard.<br>
 
  ![image](https://user-images.githubusercontent.com/55705262/111410890-8b3c1b80-8714-11eb-9049-a556e96b1f0c.png)<br>
